@@ -1,1 +1,1 @@
-# MINI_PROJECT_3
+# Fan Controller system
